@@ -11,4 +11,4 @@ And through the fortigate combing and testing the policy to control traffic。
 
 
 # Network Topology
-![image](https://github.com/changwei7/about-work/blob/main/Network%20Topology.png)
+![image](https://github.com/changwei7/Work-Description/blob/main/Network%20Topology.png)
