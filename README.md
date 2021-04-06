@@ -9,15 +9,26 @@ And through the fortigate combing and testing the policy to control traffic.
 # Project introduction
 
 # Organization structure
-Firstly, design network of data center according to the informations and requirements. 
-Here useless data means the data missing meaningful HTP images. After that we got a total 74 useful data.
+Firstly, design network of data center according to the informations and requirements. Here network topology means it will be analyzed and established according to this form. 
 
-Then, based on confirm the machine after discussion we classified those HTP images into two groups. The HTP image with the score below 12 was put into the high social isolation risk group otherwise it was put into the low social isolation risk group.
+Then, based on confirm the machine after discussion,we prepared those documents to learn and understand the function and port information and the supported protocols
 
+🔸Route
+[Cisco 891](https://www.cisco.com/c/ja_jp/support/routers/891-integrated-services-router-isr/model.html)
+
+🔸Switch
 [HPE5710 Switch](https://www.hpe.com/jp/ja/product-catalog/networking/networking-switches/pip.hpe-flexfabric-5710-switch-series.1010868971.html
 )
+[HPE5130 Switch]（https://www.hpe.com/jp/ja/product-catalog/networking/networking-switches/pip.hpe-flexnetwork-5130-hi-switch-series.1008605458.html）
 
-Next, we analyzed these two groups' images to find the similarities and differences and also refered to the related research about Huse-Tree-Person drawing test and finally we identified a set of socialty related features. And use these features as analyze pionts to analyze whether this guy are from social isolation risk or not.
+🔸Firewall
+[Fortigate 100E](https://www.fortinet.com/resources-content/fortinet/assets/data-sheets/ja_jp/file/FGT100ESeriesDS)
+[Palo alto 850]（https://www.paloaltonetworks.jp/apps/pan/public/downloadResource?pagePath=/content/pan/ja_JP/resources/datasheets/pa-800-series-datasheet）
+
+🔸Server load balance
+[Big-ip F5 i2600](https://www.networld.co.jp/product/f5/pro_info/bigip/)
+
+Next, we analyzed these documents and to start writing the command and 
 
 ![image](https://github.com/changwei7/Work-Description/blob/main/network%20organization%20structure.png)
 
