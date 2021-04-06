@@ -19,16 +19,16 @@ Then, based on confirm the machine after discussion,we prepared those documents 
 
 🔸Switch
 
-[HPE5710 Switch](https://www.hpe.com/jp/ja/product-catalog/networking/networking-switches/pip.hpe-flexfabric-5710-switch-series.1010868971.html
-)
+[HPE5710 Switch](https://www.hpe.com/jp/ja/product-catalog/networking/networking-switches/pip.hpe-flexfabric-5710-switch-series.1010868971.html)
 
-[HPE5130 Switch]（https://www.hpe.com/jp/ja/product-catalog/networking/networking-switches/pip.hpe-flexnetwork-5130-hi-switch-series.1008605458.html）
+[HPE5130 Switch](https://www.hpe.com/jp/ja/product-catalog/networking/networking-switches/pip.hpe-flexnetwork-5130-hi-switch-series.1008605458.html)
+
 
 🔸Firewall
 
 [Fortigate 100E](https://www.fortinet.com/resources-content/fortinet/assets/data-sheets/ja_jp/file/FGT100ESeriesDS)
 
-[Palo alto 850]（https://www.paloaltonetworks.jp/apps/pan/public/downloadResource?pagePath=/content/pan/ja_JP/resources/datasheets/pa-800-series-datasheet）
+[Palo alto 850](https://www.paloaltonetworks.jp/apps/pan/public/downloadResource?pagePath=/content/pan/ja_JP/resources/datasheets/pa-800-series-datasheet)
 
 🔸Server load balance
 
@@ -46,7 +46,5 @@ Finally,improve the network by combining experiments
 # Network Topology
 In this project
 
-[HPE5710 Switch](https://www.hpe.com/jp/ja/product-catalog/networking/networking-switches/pip.hpe-flexfabric-5710-switch-series.1010868971.html
-)
 
 ![image](https://github.com/changwei7/Work-Description/blob/main/Network%20Topology.png)
