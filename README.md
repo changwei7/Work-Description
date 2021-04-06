@@ -16,6 +16,7 @@ And through the fortigate combing and testing the policy to control traffic.
 # Network Topology
 In this project
 
-https://www.hpe.com/jp/ja/product-catalog/networking/networking-switches/pip.hpe-flexfabric-5710-switch-series.1010868971.html
+[HPE5710 Switch](https://www.hpe.com/jp/ja/product-catalog/networking/networking-switches/pip.hpe-flexfabric-5710-switch-series.1010868971.html
+)
 
 ![image](https://github.com/changwei7/Work-Description/blob/main/Network%20Topology.png)
