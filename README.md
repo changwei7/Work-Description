@@ -6,8 +6,6 @@ In this project, we basically worked with the server departments to set up a net
 Mainly including the use of routing protocols to make firewalls and Layer 3 and Layer 2 switches, routers and servers communicate with each other。
 And through the fortigate combing and testing the policy to control traffic.
 
-# Project introduction
-
 # Organization structure
 Firstly, design network of data center according to the informations and requirements. Here network topology means it will be analyzed and established according to this form. 
 
@@ -33,8 +31,6 @@ Then, based on confirm the machine after discussion,we prepared those documents 
 🔸Server load balance
 
 [Big-ip F5 i2600](https://www.networld.co.jp/product/f5/pro_info/bigip/)
-
-Next, we analyzed these documents and to start machine initialization and do the settings with lots of command by using protocols.Makesure the network system can determine the communication path.
 
 Next, we analyzed these documents and to start machine initialization and do the settings with lots of command by using protocols.Makesure the network system can determine the communication path.
 
