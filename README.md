@@ -40,7 +40,7 @@ Finally,improve the network by combining experiments
 
 
 # Network Topology
-In this project
 
+In this project，there are 4 networking groups inlude lots of segment.And we use the firewall to control the traffics by the lag port.And all the machine do the stack setting，in the normal times，the primary device will be used.When the port linkdown，the secondary device will be used.So the datacenter network runs all the time.And we used the network protocol such like VLAN,VRRP,BGP,OSPF,PBR IPsec and static routes to make sure the same segment servers as DB and storage will connect between each others.
 
 ![image](https://github.com/changwei7/Work-Description/blob/main/Network%20Topology.png)
